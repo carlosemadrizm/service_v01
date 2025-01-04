@@ -1,6 +1,6 @@
 <?php
 
-//Import file config
+// Import file config c
 require_once 'config.php';
 
 // Reset access token
